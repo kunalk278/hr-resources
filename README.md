@@ -11,7 +11,7 @@ Included are:
 
 * [Employee Review Form](./markdown/employee-review.md) - A simple form for employee reviews, focusing on goal-setting for the employee.
 * [Status Messages](./markdown/status-messages.md) - How to write effective daily stand-up or status emails or messages.  We have every employee send a message to the team every morning.  We've found these very useful for small, decentralized teams to keep everyone in the loop.
-* [Timesheets](./markdown/timesheets.md) Guide - How to enter time into your timesheet application.  We use Harvest, but this is general enough to adapt this for any tool - this is process-oriented, not software-oriented.
+* [Timesheets](./markdown/timesheets.md) Guide - How to enter time into your timesheet application.  This is general enough to adapt this for any software tool you might use to track time - this is process-oriented, not software-oriented.
 
 Please suggest any changes that you think we should make, or contribute your own to the repo!
 
